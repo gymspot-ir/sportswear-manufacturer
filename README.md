@@ -1,2 +1,18 @@
-# sportswear-manufacturer
-تولیدکنندگان پوشاک ورزشی ثبت شده در سایت جیم اسپات
+# تولیدکنندگان پوشاک ورزشی ثبت شده در سایت جیم اسپات
+
+## [تولیدکنندگان پوشاک ورزشی](https://gymspot.ir/sports-equipment/sportswear-manufacturer/)
+-    [پوما](https://gymspot.ir/sports-equipment/sportswear-manufacturer/puma/)
+-    [آندر آرمور](https://gymspot.ir/sports-equipment/sportswear-manufacturer/under-armour/)
+-    [نیو بالانس](https://gymspot.ir/sports-equipment/sportswear-manufacturer/new-balance/)
+-    [لولولمون](https://gymspot.ir/sports-equipment/sportswear-manufacturer/lululemon-athletica/)
+-    [آدیداس](https://gymspot.ir/sports-equipment/sportswear-manufacturer/adidas/)
+-    [آسیکس](https://gymspot.ir/sports-equipment/sportswear-manufacturer/asics/)
+-    [کلمبیا](https://gymspot.ir/sports-equipment/sportswear-manufacturer/columbia-sportswear/)
+-    [فیلا](https://gymspot.ir/sports-equipment/sportswear-manufacturer/fila/)
+-    [ریباک](https://gymspot.ir/sports-equipment/sportswear-manufacturer/reebok/)
+-    [راسل اتلتیک](https://gymspot.ir/sports-equipment/sportswear-manufacturer/russell-athletic/)
+-    [اوت دور](https://gymspot.ir/sports-equipment/sportswear-manufacturer/outdoor-voices/)
+-    [کانورس](https://gymspot.ir/sports-equipment/sportswear-manufacturer/convers/)
+-    [اف پی ](https://gymspot.ir/sports-equipment/sportswear-manufacturer/fp-movement/)
+-    [اوکلی](https://gymspot.ir/sports-equipment/sportswear-manufacturer/oakley/)
+-    [نایک](https://gymspot.ir/sports-equipment/sportswear-manufacturer/nike/)
